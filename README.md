@@ -1,2 +1,2 @@
 # Trading
-Stock, Option, Crypto Tradig
+Stock, Option, Crypto Trading
